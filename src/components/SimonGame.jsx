@@ -64,7 +64,6 @@ const SimonGame = (props) => {
       }, 250);
     }
   };
-  //adding comment to check in github
 
   //useEffect
   useEffect(() => {
